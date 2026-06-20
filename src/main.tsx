@@ -4,7 +4,7 @@ import { createRoot } from "react-dom/client";
 import "modern-normalize";
 import "./index.css";
 
-import App from "./App";
+import App from "./components/App/App";
 
 
 createRoot(
